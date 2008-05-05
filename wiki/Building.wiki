@@ -1,0 +1,7 @@
+#Building instructions for Kissphrase.
+
+===Building Requires===
+  * Mac OS X
+  * Xcode
+  * Interface Builder
+  * Other [http://code.google.com/p/chimoosoftcocoa/ shared Chimoosoft code] to be located in a directory called chimoosoftcocoa next to the kissphrase trunk directory.
