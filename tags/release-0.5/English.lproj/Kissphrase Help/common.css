@@ -1,0 +1,31 @@
+body {
+	font-family: "serif";
+	max-width: 50em;
+}
+
+h1, h2, h3, h4 {
+	font-family: "sans-serif";
+}
+dt {
+	font-style: italic;
+}
+
+dd {
+	padding-left: 2em;
+}
+
+.note {
+	background-color:#CCC;
+	padding:0.5em;
+	border: 1px solid gray;
+}
+
+.floatleft {
+    float:left;
+    padding: 0.5em 0.5em 0.5em 0;
+}
+
+.floatright {
+    float:right;
+    padding: 0.5em 0 0.5em 0.5em;
+}
